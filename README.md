@@ -12,5 +12,5 @@ Video content has become a dominant medium for information dissemination and ent
 
 ![YouTube_Summarizer](img/YouTube_Summarizer.png)
 
-<div>⏩ <a href=" ">Web Application<a></div>
+<div>⏩ <a href="https://shihjen-youtube-summarizer-app-m6seph.streamlit.app/">Web Application<a></div>
 <div>🎥 <a href="https://youtu.be/pZJ543VovT0">Demo Video<a></div>
